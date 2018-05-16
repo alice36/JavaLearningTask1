@@ -7,6 +7,8 @@ public class Learn {
         System.out.println("commitowania");
 
         System.out.println("będzie to ciekawa");
-        System.out.println("przygoda!");
+        System.out.println("przygoda");
+        System.out.println("z JAVA!");
+
     }
 }
